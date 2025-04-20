@@ -12,6 +12,7 @@ Bob Whisky Recommender UI is a React-based frontend application designed to prov
 - [Core Components](#core-components)
 - [API Endpoints](#api-endpoints)
 - [Development](#development)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -140,6 +141,16 @@ To check for linting issues, run:
 ```bash
 npm run lint
 ```
+
+## Screenshots
+
+### Home Page
+
+![Home Page](ss1.png)
+
+### Recommendations Page
+
+![Recommendations Page](ss2.png)
 
 ## Contributing
 
